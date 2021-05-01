@@ -1,0 +1,207 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Article Title 1",
+      "description": "I worked retail for three years at a higher-end interior design store, Crate & Barrel. I actually loved the job. It was low pressure and I got to meet and talk to random people. However, I did see my share of difficult customers. On one occasion a woman came in looking a bit frazzled. I’d just checked her out minutes beforehand. She slid her open box across the table and blurted out, “Sir. I’m sorry but you packed this wrong.”",
+      "created_by": "John Doe",
+      "created_date": "28-04-2021",
+      "updated_date": "28-04-2021",
+      "tags": [
+        "tag 1",
+        "tag 2",
+        "tag 3"
+      ],
+      "liked": true,
+      "like_nomber": 39,
+      "loved": false,
+      "loved_nomber": 25,
+      "reaction": true,
+      "reaction_nomber": 20,
+      "comments": [
+        {
+          "id": 1,
+          "author": "Lakbir ABDERRAHIM",
+          "comment": "comment 1",
+          "comment_date": "28-03-2021 17:05"
+        },
+        {
+          "id": 1,
+          "author": "User USER",
+          "comment": "comment 2",
+          "comment_date": "09-02-2021 18:15"
+        },
+        {
+          "id": 1,
+          "author": "Mohammed Ali",
+          "comment": "comment 3",
+          "comment_date": "17-03-2021 14:49"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Article Title 2",
+      "description": "I worked retail for three years at a higher-end interior design store, Crate & Barrel. I actually loved the job. It was low pressure and I got to meet and talk to random people. However, I did see my share of difficult customers. On one occasion a woman came in looking a bit frazzled. I’d just checked her out minutes beforehand. She slid her open box across the table and blurted out, “Sir. I’m sorry but you packed this wrong.”",
+      "created_by": "John Doe",
+      "created_date": "28-04-2021",
+      "updated_date": "28-04-2021",
+      "tags": [
+        "tag 2",
+        "tag 3"
+      ],
+      "liked": false,
+      "like_nomber": 38,
+      "loved": true,
+      "loved_nomber": 26,
+      "reaction": true,
+      "reaction_nomber": 20,
+      "comments": [
+        {
+          "id": 1,
+          "author": "Lakbir ABDERRAHIM",
+          "comment": "comment 1",
+          "comment_date": "28-03-2021 17:05"
+        },
+        {
+          "id": 1,
+          "author": "User USER",
+          "comment": "comment 2",
+          "comment_date": "09-02-2021 18:15"
+        },
+        {
+          "id": 1,
+          "author": "Mohammed Ali",
+          "comment": "comment 3",
+          "comment_date": "17-03-2021 14:49"
+        },
+        {
+          "id": 55,
+          "comment": "Test Comment",
+          "comment_date": "29-04-2021 12:34",
+          "author": "Current User"
+        },
+        {
+          "id": 55,
+          "comment": "comment 785",
+          "comment_date": "29-04-2021 12:39",
+          "author": "Current User"
+        },
+        {
+          "id": 55,
+          "comment": "Hello world",
+          "comment_date": "29-04-2021 05:38",
+          "author": "Current User"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Article Title 3 updated",
+      "description": "I worked retail for three years at a higher-end interior design store, Crate & Barrel. I actually loved the job. It was low pressure and I got to meet and talk to random people. However, I did see my share of difficult customers. On one occasion a woman came in looking a bit frazzled. I’d just checked her out minutes beforehand. She slid her open box across the table and blurted out, “Sir. I’m sorry but you packed this wrong.”",
+      "created_by": "John Doe",
+      "created_date": "28-04-2021",
+      "updated_date": "28-04-2021",
+      "tags": [
+        "tag 1",
+        "tag 3"
+      ],
+      "liked": false,
+      "like_nomber": 38,
+      "loved": false,
+      "loved_nomber": 25,
+      "reaction": false,
+      "reaction_nomber": 19,
+      "comments": [
+        {
+          "id": 1,
+          "author": "Lakbir ABDERRAHIM",
+          "comment": "comment 1",
+          "comment_date": "28-03-2021 17:05"
+        },
+        {
+          "id": 1,
+          "author": "User USER",
+          "comment": "comment 2",
+          "comment_date": "09-02-2021 18:15"
+        },
+        {
+          "id": 1,
+          "author": "Mohammed Ali",
+          "comment": "comment 3",
+          "comment_date": "17-03-2021 14:49"
+        },
+        {
+          "id": 55,
+          "comment": "ddddddddddddddddd",
+          "comment_date": "29-04-2021 12:38",
+          "author": "Current User"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Article Title 4 updated",
+      "description": "I worked retail for three years at a higher-end interior design store, Crate & Barrel. I actually loved the job. It was low pressure and I got to meet and talk to random people. However, I did see my share of difficult customers. On one occasion a woman came in looking a bit frazzled. I’d just checked her out minutes beforehand. She slid her open box across the table and blurted out, “Sir. I’m sorry but you packed this wrong.”",
+      "created_by": "John Doe",
+      "created_date": "28-04-2021",
+      "updated_date": "28-04-2021",
+      "tags": [
+        "tag 1",
+        "tag 2"
+      ],
+      "liked": false,
+      "like_nomber": 38,
+      "loved": false,
+      "loved_nomber": 25,
+      "reaction": false,
+      "reaction_nomber": 19,
+      "comments": [
+        {
+          "id": 1,
+          "author": "Lakbir ABDERRAHIM",
+          "comment": "comment 1",
+          "comment_date": "28-03-2021 17:05"
+        },
+        {
+          "id": 1,
+          "author": "User USER",
+          "comment": "comment 2",
+          "comment_date": "09-02-2021 18:15"
+        },
+        {
+          "id": 1,
+          "author": "Mohammed Ali",
+          "comment": "comment 3",
+          "comment_date": "17-03-2021 14:49"
+        },
+        {
+          "id": 55,
+          "comment": "ddddddddddddddddddddddddddd",
+          "comment_date": "29-04-2021 12:41",
+          "author": "Current User"
+        }
+      ]
+    },
+    {
+      "title": "Teest test test",
+      "description": "tttttttt ttttttttt ttttttttttt ttttttttttttttt ttttttttttt",
+      "created_by": "Current USER",
+      "created_date": "30-04-2021 11:22",
+      "loved_nomber": 0,
+      "loved": false,
+      "like_nomber": 0,
+      "liked": false,
+      "reaction_nomber": 0,
+      "reaction": false,
+      "tags": [
+        "tag 1",
+        "tag 2",
+        "tag 3"
+      ],
+      "updated_date": "",
+      "comments": [],
+      "id": 10
+    }
+  ]
+}

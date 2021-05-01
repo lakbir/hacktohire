@@ -1,0 +1,9 @@
+.article-details{
+  background-color: white;
+}
+.reaction_article span{
+  cursor: pointer;
+}
+.input_comment{
+  width: 90%;
+}
